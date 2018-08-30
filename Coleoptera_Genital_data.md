@@ -1,4 +1,4 @@
-# Female_precedence binary genital traits
+# Female_precedence binary genital traits.
 Acalanthis	0	1
 Acanthocnemus	0	1
 Acmaeodera	0	0
